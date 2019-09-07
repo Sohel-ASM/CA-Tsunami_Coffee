@@ -96,3 +96,11 @@ footer {
     background-color: OrangeRed;
     padding: 0 1rem;
 }
+
+footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5em 0;
+    color: white;
+}
