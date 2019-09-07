@@ -45,3 +45,25 @@ li {
 .location {
     margin: 4em auto;
 }
+
+.supporting {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 1rem;
+}
+
+.supporting img {
+    width: 10%;
+    height: 10%;
+    margin-right: 5%;
+}
+
+.rating {
+    background-color: OrangeRed;
+    height: 20rem;
+    padding: 0 1rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
