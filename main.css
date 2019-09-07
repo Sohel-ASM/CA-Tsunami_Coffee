@@ -82,3 +82,17 @@ li {
 .clearfix {
     clear: both;
 }
+
+.location {
+    text-align: center;
+    margin-bottom: 7rem;
+}
+
+.location img {
+    width: 100%;
+}
+
+footer {
+    background-color: OrangeRed;
+    padding: 0 1rem;
+}
