@@ -38,3 +38,10 @@ ul {
 li {
     display: inline-block;
 }
+
+.supporting,
+.rating,
+.gallery,
+.location {
+    margin: 4em auto;
+}
